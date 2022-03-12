@@ -5,6 +5,9 @@ I am studying MS in `Computer Science` @`Washington University in St Louis`(Esti
 I have completed BS in `Electrical and Computer Engineering` in 2021 @`UM-SJTU` \
 I was a `Digital Technology intern` @GE Power \
 I was `Teaching Assistant` for two courses `Intro to Cryptography` and `Data Structures & Algorithms` \
+
+<br>
+
 ![StevenWongChess's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenWongChess&show_icons=true&theme=radical&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenWongChess&layout=compact&exclude_repo=eecs494)
 
