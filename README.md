@@ -1,5 +1,5 @@
 ### Hi there, I am Yichao Wang 👋
-I am actively seeking for sde internship 2022 summer! \
+I am actively seeking for sde internship 2022 summer! 
 
 I am studying MS in `Computer Science` @`Washington University in St Louis`(Estimated graduation date May, 2023) \
 I have completed BS in `Electrical and Computer Engineering` in 2021 @`UM-SJTU` \
