@@ -15,10 +15,16 @@ I was `Teaching Assistant` for two courses `Intro to Cryptography` and `Data Str
 <img title="StevenWongChess's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=StevenWongChess&show_icons=true&theme=radical&layout=compact" width=300/>
 <img title="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenWongChess&layout=compact&exclude_repo=eecs494" width=300 /> 
 
+###### Selected Repo and Project
+
 <!-- This is to add extra pin -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=Leetcode101_Have_Fun)](https://github.com/StevenWongChess/Leetcode101_Have_Fun)
 
 </p>
+
+
+
+<hr>
 
 Visitor Count:
 
