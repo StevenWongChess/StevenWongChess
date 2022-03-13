@@ -26,7 +26,9 @@ I was `Teaching Assistant` for two courses `Intro to Cryptography` and `Data Str
 <p float="left">
 <a href="https://github.com/StevenWongChess/Leetcode101_Have_Fun"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=Leetcode101_Have_Fun" width=300 height=130>
 
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=IOS-Swift" width=300 height=130> 
+
+
 
 </p>
 
