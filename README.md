@@ -28,6 +28,8 @@ I am actively seeking for sde internship 2022 summer!
 </a>
 <a href="https://github.com/StevenWongChess/VE280"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=VE280" width=270 height=95>
 </a>
+<a href="https://github.com/StevenWongChess/VE492"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=VE492" width=270 height=95>
+</a>
 <a href="https://github.com/StevenWongChess/VE477"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=VE477" width=270 height=95>
 </a>
 <a href="https://github.com/StevenWongChess/VG101"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=VG101" width=270 height=95>
