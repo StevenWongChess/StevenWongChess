@@ -12,7 +12,7 @@ I was `Teaching Assistant` for two courses `Intro to Cryptography` and `Data Str
 <hr>
 <p float="left">
 <img title="StevenWongChess's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=StevenWongChess&show_icons=true&theme=radical&layout=compact" width=300/>
-<img title="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenWongChess&layout=compact&exclude_repo=eecs494" width=300 />
+<img title="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenWongChess&layout=compact&exclude_repo=eecs494&hide=tex" width=300 />
 </p>
 
 ###### Selected Repo and Project
