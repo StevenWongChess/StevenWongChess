@@ -2,7 +2,6 @@
 I am actively seeking for sde internship 2022 summer! 
 
 <div>
-
 I am studying MS in `Computer Science` @`Washington University in St Louis`(Estimated graduation date May, 2023) \
 I have completed BS in `Electrical and Computer Engineering` in 2021 @`UM-SJTU` \
 I was a `Digital Technology intern` @GE Power \
@@ -23,6 +22,8 @@ I was `Teaching Assistant` for two courses `Intro to Cryptography` and `Data Str
 <p float="left">
 <a href="https://github.com/StevenWongChess/Leetcode101_Have_Fun"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=Leetcode101_Have_Fun" width=270 height=95></a>
 <a href="https://github.com/StevenWongChess/IOS-Swift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=IOS-Swift" width=270 height=95>
+</a>
+<a href="https://github.com/StevenWongChess/VE477"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=VE477" width=270 height=95>
 </a>
 <a href="https://github.com/StevenWongChess/VG101"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=VG101" width=270 height=95>
 </a>
