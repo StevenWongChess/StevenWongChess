@@ -21,6 +21,8 @@ I was `Teaching Assistant` for two courses `Intro to Cryptography` and `Data Str
 
 <p float="left">
 <a href="https://github.com/StevenWongChess/Leetcode101_Have_Fun"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=Leetcode101_Have_Fun" width=270 height=95></a>
+<a href="https://github.com/StevenWongChess/software-foundations"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=software-foundations" width=270 height=95>
+</a>
 <a href="https://github.com/StevenWongChess/VE281"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=VE281" width=270 height=95>
 </a>
 <a href="https://github.com/StevenWongChess/IOS-Swift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StevenWongChess&repo=IOS-Swift" width=270 height=95>
