@@ -1,13 +1,10 @@
 ### Hi there, I am Yichao Wang 👋
 I am actively seeking for sde internship 2022 summer! 
 
-<div>
-I am studying MS in `Computer Science` @`Washington University in St Louis`(Estimated graduation date May, 2023) \
-I have completed BS in `Electrical and Computer Engineering` in 2021 @`UM-SJTU` \
-I was a `Digital Technology intern` @GE Power \
-I was `Teaching Assistant` for two courses `Intro to Cryptography` and `Data Structures & Algorithms` 
-
-</div>
+​	I am studying MS in `Computer Science` @`Washington University in St Louis`(Estimated graduation date May, 2023) <br>
+​	I have completed BS in `Electrical and Computer Engineering` in 2021 @`UM-SJTU` <br>
+​	I was a `Digital Technology intern` @`GE Power` <br>
+​	I was `Teaching Assistant` for two courses `Intro to Cryptography` and `Data Structures & Algorithms` 
 
 <hr>
 <p float="left">
