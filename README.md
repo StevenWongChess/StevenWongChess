@@ -38,6 +38,17 @@ I am actively seeking for sde internship 2022 summer!
 
 
 <hr>
+Reading List:
+
+1. `C++ Primer`: About 900 pages, covering C++11 basic knowledge
+
+   Pros: Author has deep understanding, underlying logic is explained well
+
+   Cons: TOO MANY PAGES, bad ordering
+
+   Here is my [Notes](https://github.com/StevenWongChess/StevenWongChess/C++_Primer_Notes.md)
+
+   
 
 Visitor Count:
 
