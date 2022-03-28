@@ -48,7 +48,7 @@ Reading List:
 
    Here is my [Notes](https://github.com/StevenWongChess/StevenWongChess/C++_Primer_Notes.md)
 
-   
+<hr>
 
 Visitor Count:
 
