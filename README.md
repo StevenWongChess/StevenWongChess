@@ -46,7 +46,7 @@ Reading List:
 
    Cons: About 1k pages, bad ordering
 
-   Here is my [Notes](https://github.com/StevenWongChess/StevenWongChess/C++_Primer_Notes.md)
+   Here is my [Notes](https://github.com/StevenWongChess/VE280/blob/main/c%2B%2B_primer_notes.md)
 
 <hr>
 
