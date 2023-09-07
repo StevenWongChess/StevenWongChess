@@ -1,12 +1,12 @@
 ### Hi there, I am Yichao Wang 👋
-
+<p>
 ​	I have completed MS in `Computer Science` @`Washington University in @`St Louis` in 2023 <br>
 ​	I have completed BS in `Electrical and Computer Engineering` in 2021 @`UM-SJTU` <br>
    I am currently working as Software Dev Engineer @`Amazon Web Service` <br>
    I was a summer intern @`Northrock Capital Management` <br>
 ​	I was a `Digital Technology intern` @`GE Power` <br>
 ​	I was `Teaching Assistant` for two courses `Intro to Cryptography` and `Data Structures & Algorithms` 
-
+</p>
 <hr>
 <p float="left">
 <img title="StevenWongChess's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=StevenWongChess&show_icons=true&theme=radical&layout=compact" width=300/>
